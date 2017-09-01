@@ -1,0 +1,11 @@
+#leftdiv img {
+    max-height: 100px;
+    max-width: 100px;
+    float: right;
+}
+
+#rightdiv img {
+    max-height: 100px;
+    max-width: 100px;
+    float: right;
+}
